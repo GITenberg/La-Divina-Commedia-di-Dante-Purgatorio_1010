@@ -1,5 +1,5 @@
 _repo: La-Divina-Commedia-di-Dante-Purgatorio_1010
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Epic poetry, Italian'
 - !lcsh 'Hell -- Poetry'
 - !lcsh 'Italian poetry -- To 1400'
+- GITenberg
 title: 'La Divina Commedia di Dante: Purgatorio'
 url: http://www.gutenberg.org/ebooks/1010
